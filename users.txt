@@ -1,1 +1,3 @@
-user:pass
+admin:12345
+srijan:test123
+demo:demo
